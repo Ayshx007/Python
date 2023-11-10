@@ -1,0 +1,3 @@
+joke=input("Why do we tell actors to break a leg before they perform?")
+print("Because every play has a cast")
+
